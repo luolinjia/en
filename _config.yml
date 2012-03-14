@@ -1,0 +1,6 @@
+﻿markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://ideex.name/en
+author: Linjia Luo
+pygments: true
+
