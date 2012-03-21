@@ -7,13 +7,25 @@ comments: yes
 # WhoamI
 
 Dreamer about
+
+
 <div id="hello" style="width:200px; height:200px; background:black;"></div>
+
+
 hello2
 <br/>
+
+
 <div id="hello2" style="width:100px; height:20px; background:black;" onclick="go();"></div>
+
+
 hello3
 <br/>
+
+
 <div id="hello3" style="width:100px; height:20px; background:black;" onclick="out();"></div>
+
+
 
 # Interesting
 
