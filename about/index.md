@@ -50,7 +50,8 @@ etc....
 		document.getElementById('hello').style.display = 'none';
 	}
 	function out(){
-		alert('show');
-		document.getElementById('hello').style.display = '';
+		//alert('show');
+		//document.getElementById('hello').style.display = '';
+		$('hello').fadeOut('normal');
 	}
 </script>

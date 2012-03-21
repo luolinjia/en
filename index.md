@@ -1,5 +1,5 @@
 ---
-title: Ongoing...
+title: Posts' List
 layout: page
 ---
 
