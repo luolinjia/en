@@ -8,24 +8,7 @@ comments: yes
 
 Dreamer about
 
-
-<div id="hello" style="width:200px; height:200px; background:black;"></div>
-
-
-hello2
-<br/>
-
-
-<div id="hello2" style="width:100px; height:20px; background:black;" onclick="go();"></div>
-
-
-hello3
-<br/>
-
-
-<div id="hello3" style="width:100px; height:20px; background:black;" onclick="out();"></div>
-
-
+<div onclick="out();" style="height:20px; width:20px; text-decoration:underline; color:blue; cursor:pointer;">translate</div>
 
 # Interesting
 
@@ -60,6 +43,7 @@ E............
 etc....
 
 
+<div id="hello" style="position:absolute; top:200px; left:60%; width:200px; height:200px; background:black; display:none; "></div>
 <script>
 	function go(){
 		alert('hide');
