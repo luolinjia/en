@@ -5,8 +5,22 @@ comments: yes
 ---
 
 # WhoamI
+<script>
+	function go(){
+		alert('hide');
+		document.getElementById('hello').style.display = 'none';
+	}
+	function out(){
+		alert('show');
+		document.getElementById('hello').style.display = '';
+	}
+</script>
+Dreamer about
+<div id="hello" style="width:200px; height:200px; background:black;"></div>
+<br/>
+<div id="hello2" style="width:100px; height:20px; background:black;" onclick="go();"></div>
 
-A...
+<div id="hello3" style="width:100px; height:20px; background:black;" onclick="out();"></div>
 
 # Interesting
 
