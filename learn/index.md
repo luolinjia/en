@@ -21,3 +21,7 @@ Derivative: __disciplined__( _a._ 受过训练的,遵守纪律的);
 At the same time, the American Law Institute--a group of judges, lawyers, and academics whose recommendations carry __substantial__ weight--issued new guidelines for tort law stating that companies need not warn customers of obvious dangers or bombard them with a lengthy list of possible ones.                    
 同时,美国法学会--由一群法官,律师和学者组成,他们的建议举足轻重--颁布的新民事侵权法纲要指出,公司没有必要向顾客提示显而易见的危险,也没有必要连篇累牍地给他们列一份冗长的潜在的危险清单.                 
 Derivative: __substantially__( _ad._ 主要地,实质地,大量地); 
+- __March 24, 2012__              
+How well the predictions will be validated by later performance depends upon the amount, __reliability__, and appropriateness of the information used and on the skill and wisdom with which it is always __interpreted__.                    
+这些预测能在多大程度上被后来的表现证实,取决于所采用信息的数量,可靠性和适应性,以及解释这些信息的技能和才智.                 
+Derivative: __interpretation__( _n._ 解释,口译); __interpreter__( _n._ 口译者,解释者)
