@@ -25,3 +25,11 @@ Derivative: __substantially__( _ad._ 主要地,实质地,大量地);
 How well the predictions will be validated by later performance depends upon the amount, __reliability__, and appropriateness of the information used and on the skill and wisdom with which it is always __interpreted__.                    
 这些预测能在多大程度上被后来的表现证实,取决于所采用信息的数量,可靠性和适应性,以及解释这些信息的技能和才智.                 
 Derivative: __interpretation__( _n._ 解释,口译); __interpreter__( _n._ 口译者,解释者)
+- __March 25, 2012__              
+The paid manager acting for the company was in more direct relation with the men and their demands, but even he had seldom that familiar personal knowledge of the workmen which the employer had often had under the more patriarchal __system__ of the old family business now passing away.                    
+领取报酬,代表公司经营的经理与工人及其需求形成了更加直接的关系,但是就连他对工人们也没有那种熟识的私人之间的了解,而在正在消失的旧式家族企业的那种更加家长式的制度下,雇主们却常常和他们的工人有这样的私人关系.                 
+Derivative: __supersystem__( _n._ 超系统,超级体系)
+- __March 26, 2012__              
+This will be particularly true since energy pinch will make it difficult to continue agriculture in the high-energy American fashion that makes it possible to combine few farmers with high yields.                    
+这将是确定无疑的,因为能源紧缺使农业很难以高能耗的美国耕种方式继续下去,尽管这种耕种方式使投入少数农民就可获得高产成为可能.                 
+Derivative: __energy pinch__( _n._ 能源紧缺)
