@@ -9,7 +9,7 @@ comments: yes
 Learning a word of English on a daily basis.It's necessary that to master the basic English's grammar, words and some common principles everyday.So I select a representative sentence,in order to hold it.
 
 - __March 21, 2012__              
-Traditionally,legal learning has been viewed in such institutions as the special preserve of lawyers,rather than a necessary part of the ___intellectual___ of an educated person.                    
+Traditionally,legal learning has been viewed in such institutions as the special preserve of lawyers,rather than a necessary part of the __intellectual__ of an educated person.                    
 传统上,这些院校一直把学习法律看作是律师专有的权利,而不是每个受过教育的人必备的 ___知识___ 才能.         
 Examination: __intellectual property__ 知识产权         
 Derivative: __intellectualism__( _n._ 智力活动;知性主义,对理智偏重); __intellectually__( _ad._ 智性上的,智力上地); __IQ__ = __intelligence quotient__ (智商)
@@ -30,6 +30,10 @@ The paid manager acting for the company was in more direct relation with the men
 领取报酬,代表公司经营的经理与工人及其需求形成了更加直接的关系,但是就连他对工人们也没有那种熟识的私人之间的了解,而在正在消失的旧式家族企业的那种更加家长式的制度下,雇主们却常常和他们的工人有这样的私人关系.                 
 Derivative: __supersystem__( _n._ 超系统,超级体系)
 - __March 26, 2012__              
-This will be particularly true since energy pinch will make it difficult to continue agriculture in the high-energy American fashion that makes it possible to combine few farmers with high yields.                    
+This will be particularly true since __energy pinch__ will make it difficult to continue agriculture in the high-energy American fashion that makes it possible to combine few farmers with high yields.                    
 这将是确定无疑的,因为能源紧缺使农业很难以高能耗的美国耕种方式继续下去,尽管这种耕种方式使投入少数农民就可获得高产成为可能.                 
 Derivative: __energy pinch__( _n._ 能源紧缺)
+- __March 27, 2012__              
+That sex ratio will be favored which maximizes the number of __descendants__ an individual will have and hence the number of gene copies transmitted.                    
+那种性别比例将受到拥护,它能在最大限度上增加个体将拥有的后代数量,并因此能在最大限度上增加传递到后代身上的基因复制品的数量.                 
+Derivative: __descendants__( _n._ 子孙,后代)
