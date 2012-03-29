@@ -37,3 +37,11 @@ Derivative: __energy pinch__( _n._ 能源紧缺)
 That sex ratio will be favored which maximizes the number of __descendants__ an individual will have and hence the number of gene copies transmitted.                    
 那种性别比例将受到拥护,它能在最大限度上增加个体将拥有的后代数量,并因此能在最大限度上增加传递到后代身上的基因复制品的数量.                 
 Derivative: __descendants__( _n._ 子孙,后代)
+- __March 28, 2012__              
+Whorf came to believe in a sort of __linguistic__ determinism which, in its strongest form, states that language imprisons the mind, and that the grammatical patterns in a language can produce far-reaching consequences for the culture of a society.                    
+沃尔夫开始相信某种语言决定论的观点,其极端说法是:语言禁锢思维,语言的语法结构能对一个社会的文化产生深远的影响.                 
+Derivative: __linguist__( _n._ 语言学家)
+- __March 29, 2012__              
+I have __exluded__ him because, while his accomplishments may contribute to the solution of moral problems, he has not been charged with the task of approaching any but the factual aspects of those problems.                    
+我之所以把他排除在外,是因为尽管他的成果可能有助于解决道德问题,但他只承担了处理那些问题的事实层面的任务.                 
+Derivative: __exclusion__( _n._ 排除,除外)
