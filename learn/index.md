@@ -45,3 +45,11 @@ Derivative: __linguist__( _n._ 语言学家)
 I have __exluded__ him because, while his accomplishments may contribute to the solution of moral problems, he has not been charged with the task of approaching any but the factual aspects of those problems.                    
 我之所以把他排除在外,是因为尽管他的成果可能有助于解决道德问题,但他只承担了处理那些问题的事实层面的任务.                 
 Derivative: __exclusion__( _n._ 排除,除外)
+- __March 30, 2012__              
+Besides serving the indefinite needs of its native speakers,English is a language in which some of important works in science, __technology__ , and other fields are being produced, and not always by native speakers.                    
+除了以英语为母语的人大量使用英语外,一些重要的科学,技术以及其他领域的文献也使用英语撰写,而且作者不仅仅是以英语为母语的人.                 
+Derivative: __technological__( _a._ 科技的); __technologist__( _n._ 工艺学家,技术专家); __biotechnology__ ( _n._ 生物科技)
+- __March 31, 2012__              
+Stone does not __decay__, and so tools of long ago have remained when even the bones of the man who made them have disappeared without trace.                    
+石头不会腐烂,所以以前的工具都能保存下来,虽然它们的制造者已经消失得无影无踪.                 
+Comparing: __delay__( _v._ 耽误)
