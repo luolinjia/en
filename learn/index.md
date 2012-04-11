@@ -53,3 +53,43 @@ Derivative: __technological__( _a._ 科技的); __technologist__( _n._ 工艺学
 Stone does not __decay__, and so tools of long ago have remained when even the bones of the man who made them have disappeared without trace.                    
 石头不会腐烂,所以以前的工具都能保存下来,虽然它们的制造者已经消失得无影无踪.                 
 Comparing: __delay__( _v._ 耽误)
+- __April 1, 2012__              
+The __grand__ mediocrity of today--everyone being the same in survival and number of offspring--means that natural selection has lost 80% of its power in upper-middle-class India compared to the tribes.                    
+当今的普通人--每个人的存活率和子女数量都相同--意味着与部落人口相比,自然选择在印度的中高层家庭中已失去80%的控制力.                 
+self_: __grand__( _a._ 重大的,主要的)
+- __April 2, 2012__              
+Probably there is no one here who has not in the course of the day had __occasion__ to set in motion a complex train of reasoning of the very same kind, though differing in degree, as that which a scientific man goes through in tracing the causes of natural phenomena.                    
+在座的诸位中,大概不会有人一整天都没有机会进行一连串复杂的思考活动,这些思考活动与科学家在探索自然现象的原因时所经历的思考活动,尽管复杂程度不同,但在类型上是完全一样的.                 
+Examination: __on occasion__( 有时,不时); __by occasion of__(由于)
+- __April 3, 2012__              
+Generally, the idea of good science tends to become confused with the capacity of the field in question to __generate__ an elegant theory.                    
+一般来说,人们往往将好科学的概念同该科学是否有能力产生一套完美的理论相混淆.                 
+Examination: __generate electricity__(发电)
+- __April 4, 2012__              
+Banking on the confusion between educational and vocational reasons for bringing computers into schools, computer advocates often emphasize the job prospects of __graduates__ over their educational achievement.                    
+寄希望于混淆将计算机引入学校的教育原因和职业原因,主张计算机教育的人往往强调毕业生的就业前景,而忽视其学业成绩.                 
+Derivative: __graduation__( _n._ 毕业); __undergraduate__( _n._ 大学生,本科生)
+- __April 5, 2012__              
+They are the possessions of the autonomous man of traditional theory, and they are essential to practices in which a person is held responsible for his __conduct__ and given credit for his achievements.                    
+它们是传统理论中的自主行为人所拥有的,而且它们是要求一个人对自己的行为负责并因其业绩而给与肯定的必不可少的前提.                 
+Examination: __rules of conduct__(行为准则)
+- __April 6, 2012__              
+The ancient Hopewell people of North America probably cultivated corn and other crops, but hunting and gathering were still of __critical__ importance in their economy.                    
+北美远古的霍普韦尔人很可能种植了谷物和其他农作物,但打猎和采集对他们的经济仍然是至关重要的.                 
+Examination: __be critical of__(爱挑毛病的,批评的)               
+Derivative: __critically__( _ad._ 批评地,挑剔地)                   
+Synonymous: __crucial__( _a._ 至关重要的); __captious__( _a._ 吹毛求疵地)               
+Antisense: __uncritical__( _a._ 不加批判的,不严厉的)
+- __April 7, 2012__              
+Rather, we have a certain conception of the American citizen, a __character__ who is incomplete if he cannot conpetently assess how his livelihood and happiness are affected by things outside of himself.                    
+倒不如说,我们对美国公民有某种观念:如果他不能恰当地评估自己的升级和幸福是如何受到身外之物的影响的,那么他的个性就是不完整的.     
+- __April 8, 2012__              
+Odd though it sounds, cosmic inflation is a scientifically __plausible__ consequence of some respected ideas in elementaryparticle physics, and many astrophysicists have been convinced for the better part of a decade that it is true.                    
+宇宙膨胀说虽然听似奇特,但它是基本粒子物理学中的一些公认的概念在科学史看来可信的结论.许多天体物理学家七八年来一直以为宇宙膨胀说是正确的.  
+- __April 9, 2012__              
+Whether the government should increase the financing of pure science at the expense of technology or __vice versa__ often depends on the issue of which is seen as the driving force.                    
+政府是应该通过减少对技术经费的投入来增加对纯理论科学经费的投入,还是相反,往往取决于将哪一方视作驱动力.                    
+Examination: __vice versa__(反之亦然)   
+- __April 10, 2012__              
+Studies of the gravity field of the Earth indicate that its crust and mantle yield when when unusual weight is placed on them.                    
+对地球引力场的研究表明,在不寻常的负荷之下地壳和地幔会发生变形.            
