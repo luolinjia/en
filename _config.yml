@@ -1,6 +1,5 @@
 ﻿markdown: rdiscount
 permalink: /:year/:month/:title/
 url: http://ideex.name/en
-author: Linjia Luo
+author: Karl Luo
 pygments: true
-
