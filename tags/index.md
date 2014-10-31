@@ -21,15 +21,25 @@ layout: page
 {% endfor %}
 </ul>
 
-<script src="/media/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
-<script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/medias/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/medias/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">
-$.fn.tagcloud.defaults = {
-    size: {start: 1, end: 1, unit: 'em'},
-      color: {start: '#f8e0e6', end: '#ff3333'}
-};
-
-$(function () {
-    $('#tag_cloud a').tagcloud();
-});
+    $.fn.tagcloud.defaults = {
+        size: {start: 14, end: 42, unit: 'px'},
+        color: {start: '#ACE6E6', end: '#226666'}
+    };
+    $(function () {
+    var recentColor, recentSize;
+        $('#tag_cloud a')
+            .tagcloud()
+            .mouseover(function(){
+                var thiz = $(this);
+                recentColor = thiz.css('color');
+                //recentSize = thiz.css('font-size');
+                thiz.css({'color': '#226666'});
+            })
+            .mouseout(function(){
+                $(this).css({'color': recentColor});
+            });
+    });
 </script>
