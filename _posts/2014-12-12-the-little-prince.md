@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Read『The little prince』having feeling 
+logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141212_1_zps649be625.png
 categories:
 - Life
 - Study
