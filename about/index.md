@@ -7,6 +7,8 @@ layout: page
 
 English : A new start | expectation: master.  
 
-Photography : 650D + 18-135 => be sold  
+Working in SHANGHAI HP CO LTD CHONGQING BRANCH.   
 
 Contact : ideexto@gmail.com
+
+> If you visit to Chongqing, please contact with me, and I will wait for you anytime.
