@@ -9,7 +9,7 @@ tags:
 - hot pot
 ---
 
-When we finished our team weekly meeting, the PM, we called him Eric, asked us:『Are we going TB? Because the weather is **sunshine**.』. Typically we would behave the happiness, but today we all felt that nothing happened. As it was so sudden, we didn't know the detail plan and trip, so we decided to discuss it when we were on the load to the temporary destination which was changed to ShaPin Park in the subway later.   
+When we finished our team weekly meeting, the PM, we called him Eric, asked us:『Are we going TB? Because the weather is **sunshine**.』. Typically we would behave the happiness, but today we all felt that nothing happened. As it was so sudden, we didn't know the detail plan and trip, so we decided to discuss it when we were on the way to the temporary destination which was changed to ShaPin Park in the subway later.   
 
 - **Step1** : we left from company at 3:00P.M. and arrived at the subway station at 3:30P.M. After another 30m we reached the ShaPin Park and began to go for a walk in it. It was interesting to see some people dancing and singing, though they were old and not weak, their states of mind showed very good. Of course, I loved the sunshine better:  
 
