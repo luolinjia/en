@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The way to Ruichi of my childhood in memory
+title: The Ruichi of my childhood in memory
 categories:
 - Life
 tags:
