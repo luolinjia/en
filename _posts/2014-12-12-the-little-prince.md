@@ -7,6 +7,7 @@ categories:
 - Study
 - Book
 tags:
+- fiction
 - love
 - prince
 - rose
