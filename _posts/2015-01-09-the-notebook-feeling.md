@@ -11,6 +11,8 @@ tags:
 - love
 ---
 
+> The storyline: [The Notebook](http://en.wikipedia.org/wiki/The_Notebook_(novel))
+
 **The Notebook** which I borrow from Chongqing Library tells a romantic story that will fullfill a woman's dreams, once I start reading it, I couldn't put it down.  
 
 The story touched my heart, not itself, also reminded me of some past happened to me and the same story happened to me when I was young about 13 year-old. Of course, maybe the same was to my previous girlfriend. We liked each other at primary school, and never meet for about 6 years, although we sent more mails to last our relationship, to be the end was to separate from the high school. A few passagers brought tears to my eyes because of the huge resonance.  
