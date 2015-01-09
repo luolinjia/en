@@ -11,7 +11,7 @@ tags:
 - love
 ---
 
-> The storyline: [The Notebook](http://en.wikipedia.org/wiki/The_Notebook_(novel))
+> The storyline: [The Notebook](http://en.wikipedia.org/wiki/The_Notebook_(novel\))
 
 **The Notebook** which I borrow from Chongqing Library tells a romantic story that will fullfill a woman's dreams, once I start reading it, I couldn't put it down.  
 
