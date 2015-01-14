@@ -12,10 +12,10 @@ tags:
 - netgear
 ---
 
-TODAY the wi-fi in rental housing is down, so I check whether the arrears have happened and I pay the charge of the ChinaNet broadband by Alipay. Unfortunately, it doesn't still work. So I connect the internet with a piece of cable directly, and it works well, but there is no wi-fi to do like this.   
+TODAY the wi-fi in rental housing is down, so I check whether the arrears have happened and I pay the charge of the ChinaNet broadband by Alipay. Unfortunately, it doesn't still work. So I connect the internet with a piece of cable directly, and it succeeds, but there is no wi-fi to do like this.   
 
-And I reboot the Netgear Router, it's the same as before. Damn it!!! So finally I reset the router and set the PPPoE username and password(They are correct!), but it shows that "Incorrect ISP username and password". Fuck Router!!! I'm very angry for the router, and I must complain the Netgear China co.  
+And I reboot the **Netgear Router**, it's the same as before. Damn it!!! So finally I reset the router and set the PPPoE username and password(They are correct!), but it prompts that "**Incorrect ISP username and password**". Fuck Router!!! I'm very angry for the router, and I must complain the Netgear China co.  
 
 Lastly, I treat my thinkPad as a router, search how to set the wi-fi with windows7 OS. And I input some commands in CMD by administrator and set some value about network. Now it works well by the thinkpad router Wi-Fi.  
 
-> p.s. The Netgear quality is really not good, as it has been working for 10 months. Maybe I will never choose it as my default router.   
+> p.s. The Netgear quality is really not good, as it **only** has been working for 10 months. Maybe I will never choose it as my default router.   
