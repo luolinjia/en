@@ -5,7 +5,7 @@ logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/23_zps7a5
 categories:
 - History
 tags:
-- Qing Dynasty
+- QingDynasty
 - Japanese
 ---
 
