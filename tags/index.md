@@ -11,9 +11,9 @@ layout: page
 
 <ul class="listing">
 {% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
+  <li class="listing-seperator {{ tag[0] }}" id="{{ tag[0] }}">{{ tag[0] }}</li>
 {% for post in tag[1] %}
-  <li class="listing-item">
+  <li class="listing-item {{ tag[0] }}">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
   <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
@@ -29,7 +29,8 @@ layout: page
         color: {start: '#ACE6E6', end: '#226666'}
     };
     $(function () {
-    var recentColor, recentSize;
+        $('.listing-seperator, .listing-item').hide();
+        var recentColor, recentSize;
         $('#tag_cloud a')
             .tagcloud()
             .mouseover(function(){
@@ -40,6 +41,11 @@ layout: page
             })
             .mouseout(function(){
                 $(this).css({'color': recentColor});
+            })
+            .click(function() {
+                var clazz = $(this).html();
+                $('.listing-seperator, .listing-item').hide();
+                $('.' + clazz).show();
             });
     });
 </script>
