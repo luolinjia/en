@@ -5,8 +5,8 @@ categories:
 - Life
 tags:
 - sunshine
-- roast duck
-- hot pot
+- RoastDuck
+- hot-pot
 ---
 
 When we finished our team weekly meeting, the PM, we called him Eric, asked us:『Are we going TB? Because the weather is **sunshine**.』. Typically we would behave the happiness, but today we all felt that nothing happened. As it was so sudden, we didn't know the detail plan and trip, so we decided to discuss it when we were on the way to the temporary destination which was changed to ShaPin Park in the subway later.   
