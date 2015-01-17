@@ -6,7 +6,7 @@ categories:
 - News
 tags:
 - Shanghai
-- New Year
+- NewYear
 - stampede
 ---
 
