@@ -8,7 +8,7 @@ tags:
 - English
 - walk
 - sunset
---
+---
 
 According to the schedule, I need finish the outline tasks from 01/19 to 01/30 and I'm not good at the backend code and I have to spend much time to solve these issues. Maybe the Frontend is my favourate developing from now on. Backend codes and logic still trouble me except that the google analysis which I love its data of my website.  
 
