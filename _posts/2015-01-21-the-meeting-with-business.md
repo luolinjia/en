@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The meeting with Business
-logo: 
 categories:
 - Life
 - Work
