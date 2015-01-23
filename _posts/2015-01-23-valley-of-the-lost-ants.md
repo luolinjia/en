@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minuscule: Valley Of The Lost Ants
+title: Minuscule\: Valley Of The Lost Ants
 logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150123_1_zps8056e875.jpg
 categories:
 - Movie
