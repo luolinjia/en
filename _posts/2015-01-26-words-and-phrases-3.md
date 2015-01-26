@@ -11,7 +11,7 @@ tags:
 - phrase
 ---
 
-> Lesson 2: Beginning a Presentation  
+> Lesson 3: Beginning a Presentation  
 
 - **to be designed to** : to be made or created for a specific purpose | e.g. The Internet was designed for scientists, but today almost everyone uses it.
 - **recommendation** : suggestion; advice, usually about what someone should do; one's opinion about what another person should do
