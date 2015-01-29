@@ -15,7 +15,7 @@ tags:
 
 - **As I mentioned...** : a phrase used to refer back to something that was said earlier
 - **alarmed** : surprised in a negative way; shocked; disturbed
-- **underlying** : something that cannot be seen easily, but explains why something is happening**
+- **underlying** : something that cannot be seen easily, but explains why something is happening
 - **cause** : something that creates a change or results in something else happening
 - **competitor** : a person or a business that sells a similar product to a similar group of customers as you do
 - **advertising** : the use of television commercials, radio commercials, and printed advertisements to make people want to buy a product or service
