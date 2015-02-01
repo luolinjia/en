@@ -11,18 +11,20 @@ tags:
 - Chongqing
 ---
 
-> Agenda:  
-> - Homework Check
-> - English Accent
->   - General intro.
->   - Indian accent
-> - Skills Up
->   - How to grab key points of paragraph
-> - Vocabulary Build-up
+**Agenda**:  
+- Homework Check
+- English Accent
+  - General intro.
+  - Indian accent
+- Skills Up
+  - How to grab key points of paragraph
+- Vocabulary Build-up  
+
 
 Maggie, my English Training tutor, spent 1h on checking the previous homework, so we had the poor time to study today's new key points. Never mind, I could also learnt some unknown English knowledge. 
 
 e.g.  
+
 - The difference between **version** and **edition**
   - **version** : A version of something is a particular form of it in which some details are different from earlier or later forms.
   - **edition** : An edition is the total number of copies of a particular book or newspaper that are printed at one time.
