@@ -2,4 +2,6 @@
 permalink: /:year/:month/:title/
 url: http://luolinjia.com/en
 author: Karl Luo
+lsi: false
 pygments: true
+highlighter: rouge
