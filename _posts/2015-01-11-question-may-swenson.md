@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Question 
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/MaySwenson_NewBioImage_zps220fce87.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcly1fisk5kaevuj307y081jrh.jpg
 categories:
 - Book
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Back in sunset
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150214_zps21e0def0.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisk3pvf9oj30k00qo78p.jpg
 categories:
 - Life
 tags:

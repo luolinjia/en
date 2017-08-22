@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Compound word
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/words_zps91a7cea6.jpg
+logo: https://ws2.sinaimg.cn/large/006tKfTcly1fisk516a1cj308905habo.jpg
 categories:
 - Words
 tags:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: An English day
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150210_zpsca1bb4f7.jpg
 categories:
 - Work
 tags:

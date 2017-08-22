@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Picture scrolling
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/1_zps2e587ec7.jpg
 categories:
 - Study
 tags:

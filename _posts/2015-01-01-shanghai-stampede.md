@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shanghai stampede
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/shanghai-stampede-1_zps8804d1e9.jpg
+logo: https://ws1.sinaimg.cn/large/006tKfTcly1fisk4w2o6rj30cs08j3zp.jpg
 categories:
 - News
 tags:

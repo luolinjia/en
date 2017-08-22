@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Work@Home
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150215_zpsa6c6fef1.jpg
 categories:
 - Work
 tags:

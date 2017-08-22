@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『The NoteBook』 Mark 1
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/1217_zpsfbf55d8a.jpg
+logo: https://ws2.sinaimg.cn/large/006tKfTcly1fisk55l7mnj30b40etgmr.jpg
 categories:
 - Book
 tags:

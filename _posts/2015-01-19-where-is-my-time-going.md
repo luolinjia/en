@@ -16,4 +16,4 @@ I have more confidence to talk with others in English since I walk to my company
 
 Below is the sunset scenery pictured by me when I passed by this road:  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150119_1_zps4616b650.jpg)  
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fisjqwy1o0j30go0m8gn3.jpg)  

@@ -11,20 +11,20 @@ tags:
 
 I had gone home this morning. 
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/1_zpsde1a96c0.jpg)  
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fisjphqkhnj30jo0mw76i.jpg)  
 
 Some familiar scenes always reappeared in my mind when I got on the bus to Ruichi. I always tried to hide my feelings, but it always went out of my thinking. When I arrived here, mostly no change happened.  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/2_zps81827ccd.jpg)  
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fisjpojfuzj30k00qomzj.jpg)  
 
 Of course, the Ruichi Junior Middle School had some large changes. And the running exercise habitation in winter still kept from my childhood. It let me warm!  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/5_zps01df8af9.jpg)  
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fisjpry3uyj30k00qogp6.jpg)  
 
 And I stumbled a negative:  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/6_zps4c5fbbdb.jpg)  
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fisjpszf2ij30k00qogp6.jpg)  
 
 and the cover of my father's yearbook:  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/4_zpsd2f3651c.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fisjpwrkf9j30k00qo0wn.jpg)

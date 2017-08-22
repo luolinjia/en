@@ -11,7 +11,7 @@ tags:
 - Chongqing
 ---
 
-![English training](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150117_zpse31f07d1.jpg)  
+![English training](https://ws1.sinaimg.cn/large/006tKfTcly1fisjqleqkpj30rs0f70us.jpg)  
 
 Today, **Jan 17th**, I attend in the English training at 9:00 a.m. The teacher, her name is Maggie, comes from Chongqing and graduated from a northern collenge.  
 

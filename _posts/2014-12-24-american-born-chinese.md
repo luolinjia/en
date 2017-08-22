@@ -1,7 +1,6 @@
 ---
 layout: post
 title: American Born Chinese(ABC)
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141224_1_zpsc2366c5e.jpg
 categories:
 - News
 tags:

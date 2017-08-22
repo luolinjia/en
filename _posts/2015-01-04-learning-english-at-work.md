@@ -10,7 +10,7 @@ tags:
 
 <http://www.bendigoadvertiser.com.au/story/2784013/learning-english-at-work/>  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150104_zps890c169d.jpg)
+![](https://ws2.sinaimg.cn/large/006tKfTcly1fisjqj3cn2j30k00qotck.jpg)
 
 Mark:  
 

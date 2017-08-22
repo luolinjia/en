@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Read『The Notebook』having feeling
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/1217_zpsfbf55d8a.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisk5f0vkvj30b40etgmr.jpg
 categories:
 - Book
 - Life

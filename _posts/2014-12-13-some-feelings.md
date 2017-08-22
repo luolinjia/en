@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Some feelings
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7737716037C1_zps9064ad4a.jpg
 categories:
 - Study
 - Life

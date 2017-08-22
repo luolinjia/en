@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas Day
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/christmas_zpsa9759335.jpg
+logo: https://ws4.sinaimg.cn/large/006tKfTcly1fisk4s5gb3j30id0brwhx.jpg
 categories:
 - News
 tags:

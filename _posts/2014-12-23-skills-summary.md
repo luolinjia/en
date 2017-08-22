@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Soft Skills Summary
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/skill_zps0632da1e.jpg
 categories:
 - Work
 tags:

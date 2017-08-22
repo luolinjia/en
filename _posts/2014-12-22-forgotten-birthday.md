@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The forgotten birthday
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/7B6E39C6D943_zps57095723.jpg
 categories:
 - Life
 tags:

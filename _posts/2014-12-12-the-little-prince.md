@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impression of 『The little prince』 
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141212_1_zps649be625.png
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisk45tivej30ca0j87cy.jpg
 categories:
 - Life
 - Study

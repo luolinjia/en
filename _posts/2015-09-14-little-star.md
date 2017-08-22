@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Little Star
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/littlestar_zpsp6mqggvl.jpg
 categories:
 - Book
 tags:

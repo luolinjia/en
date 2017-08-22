@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Email to Luoji Lab
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150128_zps3c5ad28a.jpg
 categories:
 - Life
 tags:

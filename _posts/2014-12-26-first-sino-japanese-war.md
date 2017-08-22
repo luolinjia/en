@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Sino-Japanese War
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/23_zps7a567442.jpg
+logo: https://ws3.sinaimg.cn/large/006tKfTcly1fisk4tvcgfj30id0brwhx.jpg
 categories:
 - History
 tags:

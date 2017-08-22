@@ -11,11 +11,11 @@ tags:
 
 Today the co-worker named Elena recommends a tea, its name is Buckwheat Tea, not Bitter Buckwheat Tea. She tells me about its light fragrance, it seems that the taste of wheat. I also don't feel bad and become interested in it. Its shape looks like this:  
 
-![buckweat tea](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141216_1_zpsf399f34e.jpg)  
+![buckweat tea](https://ws3.sinaimg.cn/large/006tKfTcly1fisjo1gmnsj30sg0hrwgx.jpg)  
 
 So I make a cup of Buckwheat Tea and smell immediately its faint scent which is similar to the taste of tea. It's very good. Elena says that having it is equivalent to having a meal. However it really refreshs myself and makes me comfortable.  
 
-![](http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Snip20141216_2_zpsca9a82b2.jpg)  
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fisjoese1ej30qa0lu792.jpg)  
 
 Actually, I like the green tea more than others as I'm never going to stop. It is so tasty that I can't control myself to have a cup of it. Of course, it's inflated to me, and I'm quite gentle.  
 

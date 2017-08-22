@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I am in shape!
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/Inte%20English/2_zps320b0035.jpg
+logo: https://ws1.sinaimg.cn/large/006tKfTcly1fisk5sxdxcj30eu0eq0tk.jpg
 categories:
 - Book
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 『The NoteBook』 Mark 3
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/1217_zpsfbf55d8a.jpg
+logo: https://ws1.sinaimg.cn/large/006tKfTcly1fisk59kr1bj30b40etgmr.jpg
 categories:
 - Book
 tags:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: When I interview...
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/20150201_zpsa70b752d.jpg
 categories:
 - Life
 tags:

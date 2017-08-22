@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Words and Phrases 7
-logo: http://i1154.photobucket.com/albums/p531/luolinjia/blog%20images/words_zps91a7cea6.jpg
 categories:
 - Words
 tags:
